@@ -1,0 +1,14 @@
+C:\Estudos\caseTijoloC#\bin\Debug\net8.0\caseTijoloC#.exe
+C:\Estudos\caseTijoloC#\bin\Debug\net8.0\caseTijoloC#.deps.json
+C:\Estudos\caseTijoloC#\bin\Debug\net8.0\caseTijoloC#.runtimeconfig.json
+C:\Estudos\caseTijoloC#\bin\Debug\net8.0\caseTijoloC#.dll
+C:\Estudos\caseTijoloC#\bin\Debug\net8.0\caseTijoloC#.pdb
+C:\Estudos\caseTijoloC#\obj\Debug\net8.0\caseTijoloC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Estudos\caseTijoloC#\obj\Debug\net8.0\caseTijoloC#.AssemblyInfoInputs.cache
+C:\Estudos\caseTijoloC#\obj\Debug\net8.0\caseTijoloC#.AssemblyInfo.cs
+C:\Estudos\caseTijoloC#\obj\Debug\net8.0\caseTijoloC#.csproj.CoreCompileInputs.cache
+C:\Estudos\caseTijoloC#\obj\Debug\net8.0\caseTijoloC#.dll
+C:\Estudos\caseTijoloC#\obj\Debug\net8.0\refint\caseTijoloC#.dll
+C:\Estudos\caseTijoloC#\obj\Debug\net8.0\caseTijoloC#.pdb
+C:\Estudos\caseTijoloC#\obj\Debug\net8.0\caseTijoloC#.genruntimeconfig.cache
+C:\Estudos\caseTijoloC#\obj\Debug\net8.0\ref\caseTijoloC#.dll

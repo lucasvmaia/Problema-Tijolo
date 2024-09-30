@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "caseTijoloC#/1.0.0": {
+        "runtime": {
+          "caseTijoloC#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "caseTijoloC#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
